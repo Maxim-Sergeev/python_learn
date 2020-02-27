@@ -8,6 +8,10 @@
     1.  [Неопределенное значение (None)](data_type/none.ipynb)
 
     2.  [Логические (bool)](data_type/bool.ipynb)
+        
+        1. [Операторы сравнения](data_type/bool.ipynb#s1)
+        
+        2. [Логические операторы](data_type/bool.ipynb#s2)
 
     3.  [Числа](data_type/num.ipynb)
 
