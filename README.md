@@ -2,6 +2,12 @@
 ### Оглавление
 
 1. [Переменные](data_type/variables.ipynb)
+    1. [Рекомендации по названию переменных](data_type/variables.ipynb)
+    2. [Создание новой переменной](data_type/variables.ipynb)
+    3. [Преобразование одного типа переменной к другому](data_type/variables.ipynb)
+    4. [Константы](data_type/variables.ipynb)
+    5. [Типы данных Python](data_type/variables.ipynb)
+    6. [Копирование объектов изменяемого типа](data_type/variables.ipynb)
 
 2.  Типы данных в Python
     1.  [Неопределенное значение (None)](data_type/none.ipynb)
