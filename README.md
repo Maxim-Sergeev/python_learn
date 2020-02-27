@@ -23,13 +23,13 @@
     
         1.[Создание строки](data_type/string.ipynb)
         
-            1.[Экранированные последовательности в строках](data_type/string.ipynb)
+        2.[Экранированные последовательности в строках](data_type/string.ipynb)
             
-        2.[Форматирование строк](data_type/string.ipynb)
+        3.[Форматирование строк](data_type/string.ipynb)
         
-        3.[Методы работы со строками](data_type/string.ipynb)
+        4.[Методы работы со строками](data_type/string.ipynb)
         
-        4.[Функции и методы строк](data_type/string.ipynb)
+        5.[Функции и методы строк](data_type/string.ipynb)
 
     5.  [Списки (list)](data_type/list.ipynb)
     
