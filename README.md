@@ -50,4 +50,5 @@
     1.  [Создание и вызов функции](funcion/function.ipynb)
     2.  [Параметры функции](funcion/function.ipynb)
     3.  [Область видимости и глобальные переменные](funcion/function.ipynb)
-    4.  [Конструкция if __name__ == "__main__"](funcion/function.ipynb)    
+    4.  [Конструкция if \_\_name\_\_ == "\_\_main\_\_"](funcion/function.ipynb)   
+    5.  [Map, lambda, reduce, filter, zip](funcion/map_lambda.ipynb)   
