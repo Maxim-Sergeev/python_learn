@@ -45,3 +45,9 @@
     10. [Бинарные (binary)](data_type/binary.ipynb)
 
 3.  [Операторы Python](operators/operators.ipynb)
+
+4.  [Функции](funcion/function.ipynb)
+    1.  [Создание и вызов функции](funcion/function.ipynb)
+    2.  [Параметры функции](funcion/function.ipynb)
+    3.  [Область видимости и глобальные переменные](funcion/function.ipynb)
+    4.  [Конструкция if __name__ == "__main__"](funcion/function.ipynb)    
