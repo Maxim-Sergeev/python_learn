@@ -46,9 +46,9 @@
 
 3.  [Операторы Python](operators/operators.ipynb)
 
-4.  [Функции](funcion/function.ipynb)
-    1.  [Создание и вызов функции](funcion/function.ipynb)
-    2.  [Параметры функции](funcion/function.ipynb)
-    3.  [Область видимости и глобальные переменные](funcion/function.ipynb)
-    4.  [Конструкция if \_\_name\_\_ == "\_\_main\_\_"](funcion/function.ipynb)   
-    5.  [Map, lambda, reduce, filter, zip](funcion/map_lambda.ipynb)   
+4.  [Функции](function/function.ipynb)
+    1.  [Создание и вызов функции](function/function.ipynb)
+    2.  [Параметры функции](function/function.ipynb)
+    3.  [Область видимости и глобальные переменные](function/function.ipynb)
+    4.  [Конструкция if \_\_name\_\_ == "\_\_main\_\_"](function/function.ipynb)   
+    5.  [Map, lambda, reduce, filter, zip](function/map_lambda.ipynb)   
