@@ -8,8 +8,12 @@
     4. [Константы](data_type/variables.ipynb)
     5. [Типы данных Python](data_type/variables.ipynb)
     6. [Копирование объектов изменяемого типа](data_type/variables.ipynb)
+    
+2. [Операторы ветвления](if_else/if_else.ipynb)
 
-2.  Типы данных в Python
+3. [Циклы](cycle/cycle.ipynb)
+
+4.  Типы данных в Python
     1.  [Неопределенное значение (None)](data_type/none.ipynb)
     2.  [Логические (bool)](data_type/bool.ipynb)
         1. [Операторы сравнения](data_type/bool.ipynb)
@@ -45,11 +49,13 @@
         2. [Объединение диапазонов](data_type/range.ipynb)        
     10. [Бинарные (binary)](data_type/binary.ipynb)
 
-3.  [Операторы Python](operators/operators.ipynb)
+5.  [Операторы Python](operators/operators.ipynb)
 
-4.  [Функции](function/function.ipynb)
+6.  [Функции](function/function.ipynb)
     1.  [Создание и вызов функции](function/function.ipynb)
     2.  [Параметры функции](function/function.ipynb)
     3.  [Область видимости и глобальные переменные](function/function.ipynb)
     4.  [Конструкция if \_\_name\_\_ == "\_\_main\_\_"](function/function.ipynb)   
     5.  [Map, lambda, reduce, filter, zip](function/map_lambda.ipynb)   
+    
+7.  [Проверка исключений (try-except)](try_except/try_except.ipynb)
