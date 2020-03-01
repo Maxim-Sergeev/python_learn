@@ -26,6 +26,7 @@
     5.  [Списки (list)](data_type/list.ipynb)
         1. [Создание списков](data_type/list.ipynb)
         2. [Методы списков](data_type/list.ipynb)        
+        3. [List comprehension](data_type/list.ipynb)                
     6.  [Кортежи (tuple)](data_type/tuple.ipynb)
         1. [Создание кортежа](data_type/tuple.ipynb)
         2. [Преимущества кортежа перед списком](data_type/tuple.ipynb)
